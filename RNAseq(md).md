@@ -1,6 +1,7 @@
 --- 
-title: "RNA-seq Analysis"
-date: "2019-12-31"
+## RNA-seq Analysis
+### Date: 2019-12-31
+### Author: [Runhang](https://runhangshu.com)
 ---
 
 
