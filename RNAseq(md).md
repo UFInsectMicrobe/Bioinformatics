@@ -1,9 +1,4 @@
----
-title: "RNA-seq"
-author: "Runhang"
-date: "2019-12-31"
-output: html_document
-abstract: \singlespacing 
+
 ---
 
 
