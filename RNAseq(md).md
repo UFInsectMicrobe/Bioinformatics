@@ -1,11 +1,11 @@
 ---
-title: "转录组数据分析"
+title: "RNA-seq"
 author: "Runhang"
 date: "2019-12-31"
 output: html_document
 abstract: \singlespacing 
 ---
-&emsp;&emsp;今天是二零一九年的最后一天，留学时光匆匆而过，研究生生涯已经过去四分之一。在这里，我把这个学期学了的转录组测序方法总结了一下，放在这里供同行参考讨论。
+
 
 <font size=6>**Introduction** </font>
 
