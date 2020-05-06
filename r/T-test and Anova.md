@@ -1,6 +1,6 @@
 ---
 title: T-test & ANOVA In R
-author: ''
+author: 'Runhang Shu'
 date: '2019-04-02'
 slug: t-test-anova
 categories: []
