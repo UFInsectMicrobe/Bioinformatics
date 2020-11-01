@@ -1,0 +1,15 @@
+surveyID,Family,Plant_gens,Plant_sp,GrowthForm,Location_description,Habitat,Deviations?
+Phil,Brassicaceae,Raphanus,raphanistrum,Herb,"NATL, Gainesville, FL",Open disturbed,No
+garima,Sapindaceae,Litchi,chinensis,Woody,"TREC, Homestead, FL",Agriculture,"Yes, plants were large trees with >1000 leaves. I sampled 30 per plant."
+Marina,Asteraceae,Solidago,,Herb,Southwest Missouri,Oak/Hickory Savanna,No
+"Leo, Eddie, RH",Asteraceae,Bidens,alba,Herb,"NATL, Gainesville, FL",Open disturbed,No
+"Kendall, John, Jasleen",Asteraceae,Bidens,alba,Herb,"NATL, Gainesville, FL",Open disturbed,
+Joseph Montemayor,Salicaceae,Salix,carolininia,Woody,"GCREC, Balm, Florida",Riparian,"All plants over 2m, 30 leaves sampled per plant. Gall record reflects number of leaves with galls out of 10 leaves sampled"
+Eric Schwan,Poacaea,Zea,mays,Grass,"EREC, Belle Glade, FL",Agriculture,"Only the three younger leaves were evaluated. Percetages were converted to rates 0-4 (0%, <10%, 10-30%, 30-50%, and >50% damage)"
+Keiran,Asteraceae,Solidago,,Herb,"NATL, Gainesville, FL",Open disturbed,all leaf herbivory was measured on  leaves from bottom .5 m of growth
+Sarah,Asteraceae,Solidago,,Herb,"NATL, Gainesville, FL",Open disturbed,"Chewing and scraping damage measured separately, lumped in spreadsheet. Total leaf count estimated by counting half of plant and doubling"
+VRS,Solanaceae,Solanum,americanum,Herb,"Los Angeles, CA",Open disturbed,Measured plant width instead of height. Subsampled 30 leaves for 9 out of 11 plants - for 2 of the smaller plants counted all leaves. Also measured distance to path.
+David,Rutaceae,Citrus,sinensis,Woody,"CREC, Lake Alfred, FL",Agriculture ,
+Kristine Persing,Apocynaceae,Asclepias,syriaca,Herb,"Walkersville, MD",Open disturbed,"not all plants had 10 leaves, and in those cases all leaves were sampled"
+Casey Federovitch,Oleaceae,Ligustrum,,Woody,"Tampa, FL",Urban,
+Lourdes Pérez,Rutaceae,Citrus,sinensis,Woody,"CREC, Lake Alfred, FL",Agriculture,
